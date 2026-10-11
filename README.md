@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋, I'm Shayaaa!
 
-<!--
-**shayaaa124/shayaaa124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning programming and GitHub.
+- 🎯 My goal is to build practical projects and develop my technical skills.
+- 💼 I’m working towards building a professional portfolio.
+- 📚 I enjoy learning new things and solving problems.
+
+## 🛠️ Skills I’m Learning
+
+- Git and GitHub
+- Programming fundamentals
+- Markdown
+- HTML and CSS (next step)
+
+## 🚀 My Projects
+
+- Hello World — My first GitHub repository.
+  - Learning how repositories and README files work.
+
+## 📈 My Goals
+
+- [x]	Create my first GitHub repository
+- [x]	Create my profile README
+- [ ]	Build my first coding project
+- [ ]	Create and publish my portfolio website
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/shayaaa124
+
